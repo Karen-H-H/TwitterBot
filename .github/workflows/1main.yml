@@ -1,11 +1,11 @@
-name: azuretwitterboOt  
+name: azuretwitterbot  
 
 on:   
   push:     
   branches:     
   - master 
 env:  
-  FUNC_APP_NAME: funcionazuretwitterboot  
+  FUNC_APP_NAME: practica1twitterbot1
   
 jobs:   
   build-and-deploy:     
