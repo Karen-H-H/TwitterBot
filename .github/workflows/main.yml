@@ -34,6 +34,3 @@ jobs:
         with:
           app-name: ${{ env.FUNC_APP_NAME }}
           package: '.'
-
-        
-
