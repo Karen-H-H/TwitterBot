@@ -1,4 +1,4 @@
-name: azuretwitterbot
+name: Deploy Nonsense Generator Function 
 
 on:
   push:
